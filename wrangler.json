@@ -2,7 +2,7 @@
   "name": "pebwage",
   "compatibility_date": "2026-02-08",
   "assets": {
-    "directory": "./dist/browser"
+    "directory": "./dist/pebwage/browser"
   },
   "observability": {
     "enabled": false,
